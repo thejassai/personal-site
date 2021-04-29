@@ -1,0 +1,127 @@
+body{
+  font-family: 'Righteous',cursive;
+  font-size: 20px;
+
+  margin: 0;
+}
+h1{
+  font-family: 'Sacramento',cursive;
+  font-size: 83px;
+  margin-bottom: 20px;
+}
+h2{
+  font-size: 60px;
+  font-family: 'Montserrat',sans-serif;
+  color: #43ab92;
+}
+h3{
+  color: #43ab92;
+  font-family: 'Montserrat',sans-serif;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+hr{
+  width: 10%;
+  border-width: 10px;
+  color: #eaf6f6;
+  border-style: dotted none none;
+}
+
+.top-container{
+  /*background-color: #43ab92;*/
+  color: #43ab92;
+  background-color: #ecfcff;
+  text-align: center;
+  position: relative;
+  padding: 100px 0 0 0;
+}
+.middle-container{
+  text-align: center;
+  color:#3c4245;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 30px 0;
+  text-align: center;
+  line-height: 2;
+}
+.contact-me{
+  line-height: 2;
+  width: 712px;
+  margin: 100px auto;
+}
+.profile{
+  margin: 100px auto;
+  width: 712px;
+}
+.profile-pic{
+  width: 200px;
+  border-radius: 50%;
+}
+.skills{
+  margin: 100px auto;
+}
+.info{
+  line-height: 2;
+  text-align: left;
+  width: 500px;
+}
+.sub-t{
+  margin-top: 0;
+}
+.img-container{
+  padding: 30px;
+  border-radius: 50%;
+}
+.des{
+  width: 120px;
+}
+.dev{
+  width: 120px;
+}
+.top_c{
+  position: absolute;
+  right: 500px;
+  top:30px;
+  width: 200px;
+}
+.bottom_c{
+  bottom: 300px;
+  left: 400px;
+  position: absolute;
+  width: 200px;
+}
+.land{
+  width: 1000px;
+}
+.btn{
+  position: relative;
+  top: 20px;
+  background-color: #293462;
+  padding: 8px 12px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #eaf6f6;
+}
+.footer-link{
+  color: #43ab92;
+  margin: auto 30px;
+  text-decoration: none;
+}
+.copyright{
+  color: white;
+  font-family: serif;
+  margin-bottom: 0;
+  font-size: 13px;
+}
+.pSkills{
+  /* border: 1px solid black; */
+}
+.pSkills td{
+  padding: 5px;
+}
+.sub-t a{
+  color: #43ab92;
+}
